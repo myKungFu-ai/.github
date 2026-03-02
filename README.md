@@ -37,7 +37,6 @@ We focus on:
 
 - `data-ai-architecture-patterns` → Design thinking & trade-offs
 - `ai-system-modules` → Composable building blocks
-- Internal research projects remain private.
 
 ---
 
